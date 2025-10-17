@@ -1,1 +1,1 @@
-# FOPRESEE (Forecasting \textbf{O}nline with \textbf{Re}sidual \textbf{S}moothing and \textbf{E}nsemble \textbf{E}xperts) 
+# FOPRESEE (**F**orecasting **O**nline with **Re**sidual **S**moothing and **E**nsemble **E**xperts) 
